@@ -7,8 +7,8 @@
         <version>1.0</version>
     </parent>
   <groupId>com.mt</groupId>
-  <artifactId>MavenEnterpriseApp-ear</artifactId>
-  <packaging>ear</packaging>
+  <artifactId>MavenEnterpriseApp</artifactId>
+  <packaging>jar</packaging>
   <version>1.0</version>
   <name>MavenEnterpriseApp-ear JavaEE6 Assembly</name>
   <url>http://maven.apache.org</url>
